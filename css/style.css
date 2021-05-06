@@ -1,0 +1,30 @@
+body
+	{
+		background-color: orange;
+	}
+
+a:link, a:visited
+	{
+		color:green;
+		background-color: lightblue;
+		text-decoration: none;
+		padding: 16px;
+		text-align: center;
+		display: inline-black;
+		font-family: verdana;
+	}
+
+
+a:hover
+	{
+		color: red;
+		background-color: transparent;
+		text-decoration: underline;
+	}
+
+a:active
+	{
+		color:green;
+		background-color: yellow;
+		text-decoration: underline;
+	}
